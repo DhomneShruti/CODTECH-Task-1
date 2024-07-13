@@ -10,7 +10,7 @@ Duration : June-july 2024
 
 Mentor : NEELAM SANTOSH KUMAR 
 
-**OVERVIEW**
+# OVERVIEW
 
 1.*Import Necessary Modules*:You'll need tkinter for the GUI components and functions, and possibly other modules depending on your approach.
 
@@ -30,8 +30,14 @@ Mentor : NEELAM SANTOSH KUMAR
     
     -Multiplication (*)
     
-    Division (/)
+    -Division (/)
     
 4.*Event Handling*: Use event handling to link the buttons to their respective functions. When a button is clicked, it should retrieve the numbers from the Entry widgets, perform the operation, and display the result in the result widget.
 
 5.*Error Handling*: Consider handling cases like division by zero or non-numeric inputs gracefully to provide a better user experience
+
+# Output
+
+![Simple Calcy 7_13_2024 7_22_56 PM (2)](https://github.com/user-attachments/assets/4fa03da1-a227-461c-8502-47b563d48582)
+
+
