@@ -16,19 +16,19 @@ Mentor : NEELAM SANTOSH KUMAR
 
 2.*Create the GUI*: Design a simple interface using tkinter that includes:
 
-    Entry widgets for users to input numbers.
+    -Entry widgets for users to input numbers.
     
-    Buttons for different arithmetic operations (+, -, *, /).
+    -Buttons for different arithmetic operations (+, -, *, /).
     
-    Another Entry widget or Label to display the result.
+    -Another Entry widget or Label to display the result.
 
 3.*Define Functions*: Create functions that will perform the arithmetic operations when the user clicks the corresponding button:
 
-    Addition (+)
+    -Addition (+)
     
-    Subtraction (-)
+    -Subtraction (-)
     
-    Multiplication (*)
+    -Multiplication (*)
     
     Division (/)
     
