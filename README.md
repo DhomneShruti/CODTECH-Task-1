@@ -4,9 +4,10 @@ ID:CT4PP3211
 Domain:Python Programming
 Duration June-july 2024
 Mentor:NEELAM SANTOSH KUMAR
-Import Necessary Modules: You'll need tkinter for the GUI components and functions, and possibly other modules depending on your approach.
 
 OVERVIEW
+Import Necessary Modules: You'll need tkinter for the GUI components and functions, and possibly other modules depending on your approach.
+
 Create the GUI: Design a simple interface using tkinter that includes:
 
 Entry widgets for users to input numbers.
