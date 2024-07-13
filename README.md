@@ -8,7 +8,7 @@ Domain : Python Programming
 
 Duration : June-july 2024 
 
-Mentor : NEELAM SANTOSH KUMAR 
+Mentor : NEELAM SANTOSH KUMAR
 
 # OVERVIEW
 
